@@ -1,0 +1,19 @@
+{
+    "browser_action": {
+        "default_icon": "icons/discord.png",
+        "default_title": "Discord Link Sharer - Community",
+        "default_popup": "popup.html"
+    },
+    "description": "Share links to HC Discord - Community",
+    "manifest_version": 2,
+    "name": "Discord Link Share",
+    "version": "2.0.0",
+    "homepage_url": "https://github.com/Human-Connection/Discord-Link-Sharer/",
+    "icons": {
+        "48": "icons/discord.png"
+    },
+    "permissions": [
+        "tabs",
+        "storage"
+    ]
+}
