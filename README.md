@@ -1,4 +1,6 @@
 # Discord-Link-Sharer
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHuman-Connection%2FDiscord-Link-Sharer.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHuman-Connection%2FDiscord-Link-Sharer?ref=badge_shield)
+
 Link sharer addon for firefox - to share links quick to the hc discord-server into link-share
 
 ## Version info
@@ -16,3 +18,7 @@ Just change the webhook urls
 6. Have fun to share links to our hc discord-server
 
 Copyright 2018 Lala Sabathil | Human Connection
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHuman-Connection%2FDiscord-Link-Sharer.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHuman-Connection%2FDiscord-Link-Sharer?ref=badge_large)
